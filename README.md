@@ -1,2 +1,0 @@
-# complex
-Kubernetes Training - Udemy
